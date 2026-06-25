@@ -941,13 +941,13 @@ See the [LICENSE](LICENSE) file for full details.
 
 <div align="center">
 
-### **[Your Name]**
+### **Dhairya Panchal**
 
 ☁️ Cloud & DevOps Enthusiast &nbsp;|&nbsp; 🐧 RHCSA Certified &nbsp;|&nbsp; 🌟 AWS Community Volunteer &nbsp;|&nbsp; 🔓 Open Source Contributor
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panchaldhairya16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-panchal-800845351/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](panchaldhairya2005@gmail.com)
 
 </div>
 
